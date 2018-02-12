@@ -1,0 +1,434 @@
+player_id	player_name	team_id	team_name	jersey	year	pos	played	started	Games	BA	OBPpct	SLGpct	AB	R	H	2B	3B	TB	HR	RBI	BB	HBP	SF	SH	K	DP	SB	CS	Picked
+1531101	Choruby, Nick	697	Texas A&M	18	Sr	INF	64	63		0.321	0.441	0.415	246	55	79	10	2	102	3	33	49	4		7	50	1	11	7	
+1873452	Shewmake, Braden	697	Texas A&M	8	Fr	INF	64	64		0.328	0.374	0.529	274	47	90	18	2	145	11	69	15	6	2		31	5	11	5	
+1752731	Janca, George	697	Texas A&M	44	So	INF	64	60		0.261	0.309	0.416	226	40	59	9	4	94	6	30	12	4	1	7	58	6	3	1	
+1752726	Homan, Austin	697	Texas A&M	25	Sr	INF	64	62		0.218	0.313	0.273	216	31	47	10	1	59		28	26	5	2	11	56	6	5	3	
+1873438	Kopetsky, Blake	697	Texas A&M	13	Sr	OF	63	48		0.302	0.350	0.412	199	33	60	12	2	82	2	20	12	3		8	53	1	4	4	
+1752690	Pennington, Walker	697	Texas A&M	9	Sr	OF	57	43		0.215	0.319	0.354	158	24	34	8	1	56	4	35	19	6	2	4	48	1	7	2	
+1752691	Davis, Joel	697	Texas A&M	17	Sr	INF	56	55		0.249	0.356	0.378	201	40	50	4	2	76	6	30	26	9	3	2	41	3	7	5	
+1649807	Bedford, Cole	697	Texas A&M	54	So	C	52	44		0.301	0.351	0.438	176	24	53	13	1	77	3	27	11	4	3	7	38	4	3		
+1873443	Foster, Logan	697	Texas A&M	5	Fr	OF	52	44		0.280	0.333	0.489	186	33	52	13	4	91	6	24	15				59	5	3	1	
+1873441	Coleman, Hunter	697	Texas A&M	10	Fr	C	48	42		0.283	0.380	0.441	152	29	43	7	1	67	5	22	20	5	2		34	4			
+1873445	Guiterrez, Jorge	697	Texas A&M	3	Fr	INF	34	22		0.222	0.347	0.432	81	13	18	3	1	35	4	16	14	2	1		27	3	2		
+1752734	Chafin, Kaylor	697	Texas A&M	56	Jr	P	33	1										0											
+1649815	Sherrod, Cason	697	Texas A&M	21	Jr	P	30	0										0											
+1873454	Blake, Cameron	697	Texas A&M	4	Fr	OF	27	19		0.214	0.389	0.214	56	5	12			12		9	15	1		1	20	1		2	
+1752728	Kilkenny, Mitchell	697	Texas A&M	34	So	P	26	5										0											
+1873442	Doxakis, John	697	Texas A&M	14	Fr	P	25	7										0											
+1649810	Martin, Corbin	697	Texas A&M	12	Jr	P	24	13										0											
+1873451	Schoenvogel, Blaine	697	Texas A&M	36	Jr	C	21	6		0.250	0.417	0.536	28	7	7	2		15	2	4	8				8				
+1873444	Gillman, Tommy	697	Texas A&M	1	Fr	INF	18	0		0.222	0.364	0.222	9	4	2			2		2	2				2				
+1649813	Hill, Brigham	697	Texas A&M	15	Jr	P	18	17										0											
+1873448	Miner, Landon	697	Texas A&M	33	Fr	P	17	0										0											
+1752707	Kolek, Stephen	697	Texas A&M	32	So	P	16	16										0											
+1752708	Stanley, Coll	697	Texas A&M	37	Fr	OF	15	3		0.154	0.389	0.231	13	4	2	1		3		1	2	3			7				
+1873450	Ruffcorn, Jason	697	Texas A&M	22	Fr	P	12	0										0											
+1649816	Larkins, Turner	697	Texas A&M	23	Jr	P	9	5										0											
+1873449	Richardson, Kyle	697	Texas A&M	27	Fr	P	6	1										0											
+1649817	Gonzalez, Lee May	697	Texas A&M	41	Sr	P	6	0										0											
+1873447	Lichty, Tim	697	Texas A&M	2	Jr	OF	5	0		0.000	0.000	0.000	6					0		1					4				
+1896910	Gutierrez, Jorge	697	Texas A&M	3	Fr	PH	3	0		0.000	0.000	0.000	3					0							1				
+1873440	Cole, Mason	697	Texas A&M	28	Fr	P	2	0										0											
+1873453	Bayless, Tristen	697	Texas A&M	20	Fr	P	2	0										0											
+1867959	Lipcius, Andre	694	Tennessee	13	Fr	INF	52	52		0.275	0.381	0.368	193	32	53	11	2	71	1	26	31	4	3		36	5	9	4	
+1867968	Moberg, Jeff	694	Tennessee	6	Sr	INF	51	51		0.311	0.386	0.517	209	32	65	10	3	108	9	33	16	10	1	1	60	3	5	2	
+1531013	Rodgers, Jordan	694	Tennessee	7	Sr	INF	51	51		0.322	0.390	0.512	205	39	66	10	1	105	9	35	19	5	2		30	1	8	2	
+1867955	Derkay, Pete	694	Tennessee	14	Fr	C	51	50		0.287	0.440	0.356	160	22	46	6	1	57	1	18	37	9	3		21	7	3	1	
+1867951	Ammons, Justin	694	Tennessee	9	Fr	OF	48	47		0.250	0.352	0.353	184	26	46	11	1	65	2	15	28	1		2	35	5	5	5	
+1649063	Leftridge, Brodie	694	Tennessee	1	Jr	OF	40	32		0.184	0.215	0.246	114	13	21	2	1	28	1	10	5		2	5	37	2	4		
+1757657	Waldren, Matt	694	Tennessee	22	Sr	OF	40	19		0.179	0.352	0.284	67	12	12	4		19	1	11	10	9	2	3	12	1	2		
+1867966	Thornton, Dominic	694	Tennessee	26	Jr	OF	39	34		0.233	0.333	0.388	116	18	27	6		45	4	17	12	6	1		20	7	3	3	
+1757601	Bartlett, Max	694	Tennessee	19	Sr	INF	35	27		0.277	0.375	0.361	83	8	23	4		30	1	16	9	4		2	26	1	2		
+1867960	Lipcius, Luc	694	Tennessee	40	Fr	OF	33	20		0.256	0.354	0.326	86	8	22	3		28	1	8	9	4		1	16		3	1	
+1649077	Santiago, Benito	694	Tennessee	31	Jr	C	33	32		0.250	0.338	0.442	120	20	30	6	4	53	3	20	15	1		1	42	3	5	1	
+1867964	Southall, Reggie	694	Tennessee	5	Sr	INF	31	24		0.213	0.314	0.240	75	7	16	2		18		8	11			6	20			2	
+1867957	Heflin, Will	694	Tennessee	36	Fr	P	30	7		0.171	0.211	0.200	35	3	6	1		7		6	2		1		7	1	1		
+1867952	Charleston, Jay	694	Tennessee	4	Fr	INF	25	12		0.250	0.315	0.250	48	9	12			12		3	5		1		14	1	5	1	
+1867958	Linginfelter, Zach	694	Tennessee	25	Fr	P	22	6		0.000	0.000	0.000	1					0							1				
+1867953	Chinea, Brandon	694	Tennessee	8	Fr	INF	20	4		0.074	0.125	0.111	27	4	2	1		3		3	1	1	3		5	1			
+1867965	Stallings, Garrett	694	Tennessee	27	Fr	P	20	8										0											
+1757611	Lipinski, Jon	694	Tennessee	28	Sr	P	20	1										0											
+1757620	Neely, Will	694	Tennessee	15	So	P	19	8										0											
+1649075	Warren, Zach	694	Tennessee	23	Jr	P	18	11										0											
+1867961	Schultz, Andrew	694	Tennessee	30	Fr	P	17	0										0											
+1867962	Sirven, Danny	694	Tennessee	32	So	C	16	6		0.167	0.219	0.167	30	3	5			5		1	2				9				
+1757653	Vasquez, Daniel	694	Tennessee	29	So	P	15	2										0											
+1531009	Martin, Hunter	694	Tennessee	12	Sr	P	14	14										0											
+1531004	Freeman, Eric	694	Tennessee	41	Jr	P	10	0										0											
+1531016	Serrano, Kyle	694	Tennessee	11	Jr	P	9	1										0											
+1867954	Darling, Connor	694	Tennessee	17	Fr	P	9	1										0											
+1649073	Westphal, Jacob	694	Tennessee	16	Jr	P	7	0										0											
+1531012	Robinson, Quint	694	Tennessee	34	Jr	P	3	0										0											
+1649080	Jackson, Richard	694	Tennessee	37	So	P	2	0										0											
+1757619	Mascia, Nico	694	Tennessee	35	So	C	1	0		0.000	0.000	0.000	1					0							1				
+1755870	Pompey, Tristan	334	Kentucky	6	So	OF	66	66		0.361	0.464	0.541	266	70	96	18		144	10	45	46	6	1	1	56	4	9	4	
+1534410	Carson, Marcus	334	Kentucky	15	Sr	OF	66	66		0.303	0.398	0.474	234	50	71	13	3	111	7	39	18	20	2	7	39	3	8	6	
+1534412	Heady, Connor	334	Kentucky	7	Sr	INF	66	66		0.276	0.399	0.419	210	47	58	9		88	7	32	36	7		15	42	1	2	4	
+1642968	Mahan, Riley	334	Kentucky	2	Jr	INF	66	66		0.336	0.392	0.618	262	58	88	23	3	162	15	67	22	6	6	3	56	4	9	3	
+1755894	Reks, Zach	334	Kentucky	40	Sr	OF	65	65		0.352	0.461	0.471	244	44	86	16	2	115	3	44	42	9	2	7	26	12	15	3	
+1755872	Becker, Luke	334	Kentucky	10	Jr	INF	61	44		0.287	0.422	0.467	167	48	48	9		78	7	46	37	4	3	4	42	6	7	3	
+1534414	Marshall, Tyler	334	Kentucky	3	Jr	INF	57	40		0.293	0.425	0.343	140	22	41	4		48	1	29	29	6	4	3	25	5	1	3	
+1755891	Cottam, Kole	334	Kentucky	13	So	C	55	50		0.319	0.380	0.505	188	34	60	12	1	95	7	44	15	6	4	2	33	6			
+1642970	White, Evan	334	Kentucky	19	Jr	INF	53	52		0.373	0.453	0.637	212	48	79	24	1	135	10	41	25	8	2	1	31	3	5	2	
+1534424	Squires, Troy	334	Kentucky	16	Jr	INF	49	48		0.305	0.427	0.391	151	25	46	10		59	1	26	23	10	1	13	20	5	5	2	
+1880413	Heyer, Luke	334	Kentucky	26	Jr	INF	37	18		0.262	0.342	0.492	65	12	17	6		32	3	12	5	3		1	19	1	1	1	
+1432427	Wilson, Storm	334	Kentucky	8	Sr	OF	32	3		0.167	0.325	0.233	30	7	5	2		7		7	4	4	2		7	1	1		
+1534421	Salow, Logan	334	Kentucky	28	Sr	P	31	0										0											
+1755869	Lewis, Zeke	334	Kentucky	4	Fr	INF	28	0		0.000	0.500	0.000	5	12				0			4	1			3			1	
+1755876	McNeill, Gunnar	334	Kentucky	25	Sr	1B	25	5		0.258	0.314	0.419	31	4	8	2		13	1	6	3		1		8	1			
+1880414	Machamer, Chris	334	Kentucky	33	Fr	P	24	0										0											
+1887516	Cleary, Colton	334	Kentucky	44	Sr	P	24	0										0											
+1642975	Schaenzer, Brad	334	Kentucky	42	Jr	P	23	5										0											
+1642977	Pop, Zach	334	Kentucky	52	Jr	P	22	0										0											
+1880409	Thompson, Zack	334	Kentucky	14	Fr	P	20	13										0											
+1880407	Collett, T.J.	334	Kentucky	5	Fr	C	20	2		0.087	0.192	0.217	23	1	2			5	1	6	1	2			7	1			
+1755892	Hjelle, Sean	334	Kentucky	30	So	P	20	19										0											
+1642974	Logue, Zach	334	Kentucky	39	Jr	P	19	16										0											
+1642972	Lewis, Justin	334	Kentucky	21	So	P	17	16										0											
+1880408	Maley, Alec	334	Kentucky	12	Jr	P	13	0										0											
+1755893	Keen, Austin	334	Kentucky	22	Fr	P	11	0										0											
+1642976	Gei, Marshall	334	Kentucky	50	So	C	9	0		0.200	0.200	0.200	5	2	1			1		2									
+1755871	Smith, Josh	334	Kentucky	9	So	P	5	0										0											
+1880410	Bellini, Joey	334	Kentucky	20	Fr	INF	5	0		0.000	0.000	0.000	2					0							1				
+1880418	Doerries, Mark	334	Kentucky	45	So	P	4	0										0											
+1755875	Hamilton, Jake	334	Kentucky	17	So	P	2	0										0											
+1644664	Bonfield, Luke	31	Arkansas	17	Jr	OF	64	64		0.294	0.366	0.448	248	41	73	9	1	111	9	49	30	2	7	1	44	6	1	2	
+1758236	Koch, Grant	31	Arkansas	33	So	C	63	63		0.264	0.358	0.498	235	40	62	14	1	117	13	42	33	2	1		47	5	1	1	
+1873212	Biggers, Jax	31	Arkansas	9	So	INF	63	62		0.338	0.423	0.498	213	48	72	14	4	106	4	37	30	3	2	4	30	3	3	1	
+1543791	Shaddy, Carson	31	Arkansas	20	Jr	C	62	62		0.279	0.383	0.450	222	48	62	10	2	100	8	40	26	13	3		61		6	5	
+1644694	Spanberger, Chad	31	Arkansas	24	Jr	C	60	58		0.305	0.389	0.619	239	54	73	13	1	148	20	67	26	8	2	1	65	4	2		
+1758250	Arledge, Jake	31	Arkansas	15	Sr	OF	60	59		0.300	0.420	0.390	210	47	63	6	2	82	3	30	33	11	1	8	50	4	7	3	
+1873216	Fletcher, Dominic	31	Arkansas	28	Fr	OF	59	56		0.291	0.356	0.495	220	44	64	7	1	109	12	37	17	7	3	3	36	4	1	1	
+1758235	Cole, Eric	31	Arkansas	8	So	OF	55	51		0.282	0.349	0.413	206	31	58	12		85	5	25	19	3	1	3	25	3	3	2	
+1873208	Gates, Jared	31	Arkansas	3	Jr	INF	37	35		0.246	0.328	0.418	122	19	30	3		51	6	14	11	4		1	32	3			
+1873211	Kenley, Jack	31	Arkansas	7	Fr	INF	34	6		0.133	0.278	0.167	30	5	4	1		5		2	2	4		3	13	1	1	1	
+1873215	Lee, Evan	31	Arkansas	27	Fr	OF	30	9		0.333	0.451	0.405	42	12	14	3		17		8	7	2			7		1		
+1873214	McFarland, Jordan	31	Arkansas	13	Fr	INF	29	19		0.271	0.366	0.357	70	14	19			25	2	10	9	2	1		21		1		
+1873222	Williams, Jaxon	31	Arkansas	42	Fr	INF	24	10		0.245	0.333	0.327	49	7	12	2	1	16		14	7		1		20	1			
+1543778	Alberius, Josh	31	Arkansas	10	Sr	P	24	9										0											
+1644677	Chadwick, Cannon	31	Arkansas	36	Sr	P	24	0			1.000			1				0			1								
+1758251	Reindl, Jake	31	Arkansas	34	So	P	24	0										0											
+1758254	Kopps, Kevin	31	Arkansas	45	Fr	P	22	5										0											
+1543794	Taccolini, Dominic	31	Arkansas	25	Sr	P	20	5										0											
+1758253	Murphy, Kacey	31	Arkansas	21	So	P	19	10										0											
+1873209	Burch, Matt	31	Arkansas	4	Fr	INF	18	7		0.156	0.206	0.219	32	2	5	2		7			2				8				
+1543784	Gosser, Alex	31	Arkansas	44	Sr	C	17	6		0.259	0.312	0.407	27	6	7	1		11	1	4	2	1	2		2	1			
+1758231	Knight, Blaine	31	Arkansas	16	So	P	17	16										0											
+1873224	Stephan, Trevor	31	Arkansas	48	Jr	P	16	16										0											
+1873219	Cronin, Matt	31	Arkansas	32	Fr	P	15	0										0											
+1758230	Loseke, Barrett	31	Arkansas	46	So	P	15	2										0											
+1873210	Wilson, Hunter	31	Arkansas	6	Jr	INF	14	10		0.310	0.394	0.310	29	3	9			9		6	3	1		1	2			1	
+1758258	Rogers, Weston	31	Arkansas	37	So	P	12	0										0											
+1873217	Denton, Angus	31	Arkansas	29	Fr	P	8	0										0											
+1873220	Kostyshock, Jacob	31	Arkansas	35	Fr	P	6	0										0											
+1873218	Heiss, Brenden	31	Arkansas	30	Fr	P	4	0										0											
+1758232	Scroggins, Cody	31	Arkansas	5	So	INF	3	0										0											
+1758249	Campbell, Isaiah	31	Arkansas	55	So	P	1	0										0											
+1762085	Infante, Julian	736	Vanderbilt	22	So	INF	62	62		0.315	0.387	0.518	251	51	79	16	1	130	11	66	27	3	1	1	59	8		1	
+1762087	Kaiser, Connor	736	Vanderbilt	12	So	INF	62	59		0.222	0.316	0.284	194	32	43	7	1	55	1	18	25	3	3	11	44	5	4		
+1638487	Kendall, Jeren	736	Vanderbilt	3	Jr	OF	62	62		0.307	0.372	0.556	261	59	80	10	5	145	15	53	24	5	3	2	74	3	20	4	
+1527831	Delay, Jason	736	Vanderbilt	5	Sr	C	59	58		0.309	0.381	0.444	207	31	64	18	2	92	2	41	18	8	3	1	44	4	1	2	
+1527830	Coleman, Ro	736	Vanderbilt	1	Sr	INF	56	32		0.290	0.347	0.328	131	20	38	3	1	43		8	9	3	1	8	10	3	7	2	
+1638494	Toffey, Will	736	Vanderbilt	9	Jr	INF	56	56		0.354	0.475	0.602	206	55	73	13	1	124	12	64	48	2	3	3	30	5	5	4	
+1762092	Paul, Ethan	736	Vanderbilt	10	So	INF	53	52		0.251	0.336	0.412	199	34	50	15	1	82	5	27	18	8	1	3	47	3	6	2	
+1879658	Hayes, Reed	736	Vanderbilt	24	Jr	OF	52	32		0.276	0.375	0.362	163	30	45	10	2	59		36	24	3	2		33	5	4	5	
+1879647	Bleday, JJ	736	Vanderbilt	51	Fr	OF	51	48		0.256	0.384	0.341	164	23	42	8		56	2	22	34				26	2		2	
+1762090	Scott, Stephen	736	Vanderbilt	19	So	OF	38	32		0.227	0.347	0.311	119	25	27	4		37	2	11	20	3	2		32		3		
+1762086	Jones, Alonzo	736	Vanderbilt	8	So	INF	35	25		0.221	0.357	0.295	95	19	21	3	2	28		10	18	2		4	28		3	1	
+1879653	Ray, Harrison	736	Vanderbilt	2	Fr	INF	32	17		0.244	0.333	0.333	78	16	19	2	1	26	1	12	11	1	3		20	6	2	3	
+1879652	King, Zach	736	Vanderbilt	34	Fr	P	25	0										0											
+1762089	Raby, Patrick	736	Vanderbilt	29	So	P	25	25										0											
+1638492	Snider, Collin	736	Vanderbilt	40	Jr	P	21	1										0											
+1762084	Gristanti, Walker	736	Vanderbilt	17	So	OF	21	2		0.267	0.333	0.333	30	7	8	2		10		4	2	1		1	17				
+1638490	Ruppenthal, Matt	736	Vanderbilt	28	Jr	P	21	4										0											
+1879650	Fellows, Drake	736	Vanderbilt	66	Fr	P	18	12										0											
+1638495	Wright, Kyle	736	Vanderbilt	44	Jr	P	17	17										0											
+1879649	Duvall, Ty	736	Vanderbilt	20	Fr	C	17	4		0.375	0.516	0.500	24	6	9	3		12		6	6	1			6	1			
+1762079	Conger, Maddux	736	Vanderbilt	42	So	P	16	4										0											
+1879651	Gillis, Jackson	736	Vanderbilt	35	Fr	P	16	0										0											
+1762080	Day, Chandler	736	Vanderbilt	27	So	P	15	14										0											
+1879657	Stover, Paxton	736	Vanderbilt	11	Jr	P	15	0										0											
+1879648	Brewer, Alex	736	Vanderbilt	21	Fr	INF	14	2		0.000	0.167	0.000	15	1				0		1	3				5				
+1527837	Murfee, Penn	736	Vanderbilt	16	Jr	INF	10	0										0											
+1762082	Fentress, Kiambu	736	Vanderbilt	13	So	OF	6	0		0.250	0.250	0.250	4		1			1											
+1762088	McGarry, Matt	736	Vanderbilt	38	So	P	5	0										0											
+1879654	Sandborn, Michael	736	Vanderbilt	25	Fr	P	3	0										0											
+1868065	Todd, Jonah	37	Auburn	41	Jr	OF	63	62		0.376	0.460	0.471	242	56	91	13	5	114		37	37	4	4	2	28	7	9	5	
+1868045	Anthony, Josh	37	Auburn	3	Jr	INF	63	62		0.266	0.375	0.352	233	37	62	14		82	2	39	36	6	2		41	6	7	2	
+1530814	Robert, Daniel	37	Auburn	20	Sr	INF	60	59		0.290	0.402	0.429	217	33	63	11	2	93	5	42	41	2	4		58	5	11	1	
+1868058	Estes, Jay	37	Auburn	25	Jr	INF	59	59		0.276	0.346	0.379	232	39	64	19	1	88	1	29	21	6	4	7	52	6	6	3	
+1868060	Ingram, Dylan	37	Auburn	27	Jr	INF	57	54		0.258	0.382	0.448	194	36	50	13		87	8	39	32	9	3	1	48	7		1	
+1868057	Davis, Conor	37	Auburn	24	Fr	INF	52	38		0.282	0.359	0.368	163	22	46	11		60	1	29	18	2	1		43	6	1	3	
+1530812	Logan, Blake	37	Auburn	1	Sr	C	50	41		0.250	0.335	0.361	144	25	36	5	1	52	3	19	17	3	3	4	22	5		1	
+1868048	Jarvis, Luke	37	Auburn	9	Jr	INF	48	48		0.276	0.313	0.443	185	34	51	10	3	82	5	27	10	1	2	1	43	5	7	1	
+1868051	Holland, Will	37	Auburn	17	Fr	INF	45	41		0.209	0.299	0.343	134	23	28	7	1	46	3	18	15	4	4	1	31	8	4		
+1868053	McGuffin, Bowen	37	Auburn	19	Jr	OF	42	30		0.245	0.341	0.309	110	15	27	7		34		9	14	2			25	7	2	1	
+1868056	Coker, Calvin	37	Auburn	23	Jr	P	31	0										0											
+1420094	Gillikin, Sam	37	Auburn	31	Jr	OF	29	12		0.213	0.351	0.319	47	9	10	2		15	1	4	9	1			12				
+1643427	Decker, Bo	37	Auburn	35	Sr	OF	25	25		0.259	0.337	0.358	81	10	21	5		29	1	14	7	3	1	1	20	5	3	1	
+1530811	Haecker, Damon	37	Auburn	6	Sr	INF	25	20		0.234	0.412	0.297	64	7	15	4		19		10	15	5	1		10	2	2	2	
+1868052	Herndon, Corey	37	Auburn	18	Jr	P	24	0										0											
+1753420	Mitchell, Andrew	37	Auburn	12	Jr	P	23	4										0											
+1420107	Lipscomb, Cole	37	Auburn	49	Sr	P	23	1										0											
+1753410	Johnson, Jeremy	37	Auburn	2	Fr	OF	22	12		0.229	0.322	0.271	48	9	11	2		13		8	5	3	3		7	1	1		
+1868064	Watson, Ryan	37	Auburn	37	Fr	P	22	2										0											
+1530815	Shaffer, J.J.	37	Auburn	15	Sr	OF	21	0		0.000	0.143	0.000	6	4				0				1			1	1	2	1	
+1753426	Klobosits, Gabe	37	Auburn	40	Sr	P	17	4										0											
+1868049	Daniel, Davis	37	Auburn	13	Fr	P	17	16										0											
+1530817	Thompson, Keegan	37	Auburn	7	Jr	P	15	15										0											
+1868067	Anderson, Elliott	37	Auburn	38	Fr	P	14	0										0											
+1753418	Mize, Casey	37	Auburn	32	So	P	13	12										0											
+1868046	Camacho, Christian	37	Auburn	5	Fr	P	12	8										0											
+1868054	Rojas, Mike	37	Auburn	21	So	C	12	4		0.267	0.389	0.333	15	4	4	1		5		3	3				4	1			
+1753417	Sprinkle, Daniel	37	Auburn	28	So	P	10	1										0											
+1868050	Malczewski, Welby	37	Auburn	16	So	P	3	0										0											
+1530809	Davis, Kevin	37	Auburn	10	Sr	P	1	0										0											
+1868059	Warner, Grant	37	Auburn	26	Jr	P	1	0										0											
+1868055	Hillhouse, Trevor	37	Auburn	22	Fr	P	1	0										0											
+1868062	Gahm, Joe	37	Auburn	34	Fr	P	1	0										0											
+1660935	Golsan, Will	433	Ole Miss	8	Jr	INF	57	57		0.312	0.372	0.407	221	41	69	12		90	3	22	19	4	3	4	34	8	7	3	
+1867507	Kessinger, Grae	433	Ole Miss	15	Fr	INF	55	53		0.175	0.287	0.247	154	15	27	5		38	2	16	23	2	2	8	30	1	2	4	
+1660929	Blackman, Tate	433	Ole Miss	4	Jr	INF	55	55		0.302	0.420	0.525	202	46	61	10	4	106	9	30	34	8	1	1	46	5	9	4	
+1546120	Bortles, Colby	433	Ole Miss	25	Sr	INF	55	55		0.269	0.376	0.482	193	33	52	9	1	93	10	42	31	6	7		50	5		2	
+1752119	Olenek, Ryan	433	Ole Miss	2	So	INF	53	53		0.272	0.317	0.398	206	23	56	17		82	3	25	8	8	5	2	29	6	10	3	
+1660945	Watson, Kyle	433	Ole Miss	9	Jr	INF	50	18		0.173	0.273	0.267	75	11	13	4		20	1	6	10	1	2	1	29	1	4	1	
+1867503	Dillard, Thomas	433	Ole Miss	6	Fr	C	48	45		0.206	0.329	0.348	141	17	29	8		49	4	12	25	1			51	5	3	2	
+1867517	Rowe, Tim	433	Ole Miss	42	Jr	OF	47	30		0.254	0.293	0.405	126	16	32	10		51	3	20	6	1			32	3	1		
+1752121	Fortes, Nick	433	Ole Miss	7	So	C	44	38		0.319	0.382	0.486	138	18	44	8		67	5	32	12	2		7	15	4			
+1867506	Johnson, Cooper	433	Ole Miss	13	Fr	C	42	38		0.213	0.301	0.269	108	17	23	6		29		8	13	1	1	5	27	3		3	
+1867522	Zabowski, Cole	433	Ole Miss	14	Fr	INF	39	24		0.239	0.311	0.283	92	8	22	1		26	1	11	10		1		26	2		1	
+1867518	Seamster, Bryan	433	Ole Miss	27	Fr	OF	31	12		0.182	0.302	0.273	44	6	8	1		12	1	3	6	2	1	1	14		1		
+1660934	Fitzsimmons, Michael	433	Ole Miss	32	So	INF	29	10		0.175	0.298	0.275	40	4	7	1		11	1	4	5	2			13	2			
+1752125	Woolfolk, Dallas	433	Ole Miss	24	So	P	26	0										0											
+1867502	Cockrell, Chase	433	Ole Miss	11	So	INF	25	19		0.239	0.292	0.373	67	10	16	3		25	2	6	4	1			27				
+1660942	Stokes, Will	433	Ole Miss	17	Jr	P	24	0										0											
+1752118	Miller, DJ	433	Ole Miss	1	So	OF	19	4		0.167	0.231	0.458	24	3	4	1		11	2	4	2				6				
+1867504	Ethridge, Will	433	Ole Miss	20	Fr	P	19	4										0											
+1867508	Rolison, Ryan	433	Ole Miss	22	Fr	P	19	10										0											
+1867516	Roth, Houston	433	Ole Miss	40	Fr	P	18	0										0											
+1867505	Holston, Greer	433	Ole Miss	12	Fr	P	17	8										0											
+1660933	Feigl, Brady	433	Ole Miss	39	So	P	17	6										0											
+1752122	Parkinson, David	433	Ole Miss	10	Jr	P	14	14										0											
+1752124	Pagnozzi, Andy	433	Ole Miss	19	So	P	13	0										0											
+1867501	Blaum, Bryce	433	Ole Miss	3	Fr	INF	12	2		0.333	0.538	0.333	9	1	3			3			3	1		1	2		1		
+1752123	Green, Connor	433	Ole Miss	18	So	P	12	0										0											
+1752126	McArthur, James	433	Ole Miss	26	So	P	12	12										0											
+1660936	Johnson, Sean	433	Ole Miss	33	Sr	P	7	3										0											
+1752152	Klepzig, Carson	433	Ole Miss	43	Fr	C	6	0		0.000	0.000	0.000	3	2				0											
+1867499	Barber, Jason	433	Ole Miss	31	Fr	P	5	0			1.000			1				0				1							
+1768174	Bride, Jonah	648	South Carolina	20	Jr	INF	60	60		0.282	0.371	0.426	216	33	61	12	2	92	5	32	22	10	3	9	28	6	3	1	
+1872259	Olson, Jacob	648	South Carolina	7	So	OF	58	56		0.294	0.347	0.430	221	37	65	10	1	95	6	27	13	5			41	2	4		
+1652583	Destino, Alex	648	South Carolina	24	Jr	OF	57	55		0.255	0.338	0.441	204	31	52	8		90	10	41	27		3	1	42	7	3	3	
+1768171	Tolbert, LT	648	South Carolina	11	So	INF	56	55		0.284	0.338	0.368	204	24	58	6	1	75	3	32	14	4	3	3	19	3	2	4	
+1541611	Williams, Matt	648	South Carolina	48	Jr	INF	52	33		0.233	0.377	0.287	129	21	30	4		37	1	12	25	6	2	2	20	5	1		
+1768170	Hopkins, TJ	648	South Carolina	5	So	OF	52	49		0.258	0.316	0.416	190	37	49	11	2	79	5	20	15	2	2	2	44	2	6	2	
+1872246	Cortes, Carlos	648	South Carolina	8	Fr	INF	50	43		0.286	0.368	0.565	168	27	48	9	1	95	12	41	22	1	2	1	27	3	5	2	
+1768169	Blair, Danny	648	South Carolina	4	So	OF	47	25		0.258	0.345	0.309	97	15	25	2		30	1	9	10	3		3	15	2	4	4	
+1652590	Stokes, Madison	648	South Carolina	14	Jr	INF	47	47		0.224	0.312	0.339	165	18	37	10		56	3	17	15	6		4	41	8	3	3	
+1652591	Taylor, Hunter	648	South Carolina	38	Jr	C	37	26		0.212	0.295	0.273	99	9	21	6		27		5	12		1		29	2		1	
+1768178	Cullen, Chris	648	South Carolina	33	So	C	34	31		0.276	0.377	0.467	105	19	29	5		49	5	18	12	5		2	27	2	1		
+1872261	Row, Justin	648	South Carolina	3	Jr	INF	29	17		0.290	0.388	0.464	69	17	20	4	1	32	2	9	7	4		7	10		1		
+1872252	Hogan, Riley	648	South Carolina	32	Fr	1B	28	24		0.244	0.326	0.397	78	10	19	6		31	2	10	9	1	1		15	2		1	
+1541605	Reagan, Josh	648	South Carolina	47	Sr	P	27	0										0											
+1768182	Bowers, Colie	648	South Carolina	40	Sr	P	25	0										0											
+1541607	Scott, Reed	648	South Carolina	39	Sr	P	24	3										0											
+1768175	Jones, John	648	South Carolina	22	Jr	C	22	12		0.093	0.235	0.186	43	1	4	1		8	1	3	7	1			16	2			
+1768176	Grosvenor, Ross	648	South Carolina	25	Sr	1B	19	7		0.207	0.395	0.448	29	3	6	1		13	2	4	8	1			9				
+1652584	Johnson, Tyler	648	South Carolina	21	Jr	P	19	0										0											
+1872248	Flint, Christian	648	South Carolina	31	Fr	INF	19	0		0.000	0.000	0.000	2	2				0									2	2	
+1541587	Crowe, Wil	648	South Carolina	37	Jr	P	15	15										0											
+1541602	Parke, John	648	South Carolina	28	Jr	P	14	2										0											
+1768173	Hill, Adam	648	South Carolina	15	So	P	14	14										0											
+1872256	Lee, Colby	648	South Carolina	26	Fr	P	13	3										0											
+1872255	Lawson, Graham	648	South Carolina	13	So	P	13	2										0											
+1872257	Morris, Cody	648	South Carolina	49	Fr	P	10	10										0											
+1872245	Bridges, Sawyer	648	South Carolina	23	Fr	P	9	1						1				0											
+1652587	Schmidt, Clarke	648	South Carolina	6	Jr	P	9	9										0											
+1652586	Murray, Brandon	648	South Carolina	9	Jr	P	6	1										0											
+1541589	Haswell, Tyler	648	South Carolina	18	Jr	P	3	0										0											
+1768184	McIlwain, Brandon	648	South Carolina	44	So	OF	1	0										0											
+1751868	Liput, Deacon	235	Florida	8	So	INF	70	68		0.227	0.313	0.314	255	32	58	9	2	80	3	37	32	1	3	4	67	7	12	7	
+1639953	Schwarz, JJ	235	Florida	22	Jr	C	69	69		0.259	0.351	0.444	259	43	67	12		115	12	56	36	4	6		60	5	6	1	
+1751887	Maldonado, Nelson	235	Florida	27	So	INF	68	63		0.299	0.449	0.433	201	40	60	9		87	6	32	53	5	4	1	25	5	4	2	
+1639947	Guthrie, Dalton	235	Florida	5	Jr	INF	65	65		0.273	0.349	0.356	253	39	69	9		90	4	23	27	6	6	1	41	5	11	7	
+1639948	Hicks, Christian	235	Florida	9	Jr	INF	64	57		0.282	0.328	0.398	216	30	61	11	1	86	4	27	14	2	3	5	31	5	6	3	
+1531493	Larson, Ryan	235	Florida	66	Sr	OF	61	50		0.279	0.369	0.416	190	31	53	9	1	79	5	24	19	8		2	49	6	7	3	
+1751876	Horvath, Nick	235	Florida	26	Jr	OF	60	22		0.186	0.341	0.214	70	12	13	2		15		6	12	5	1	1	21		6	2	
+1751867	India, Jonathan	235	Florida	6	So	INF	59	57		0.274	0.354	0.429	212	38	58	15		91	6	34	23	6	5	5	42	4	13		
+1866415	Langworthy, Austin	235	Florida	44	Fr	OF	56	54		0.238	0.352	0.352	193	37	46	10		68	4	26	35	1	4	1	39	6	7	2	
+1639952	Rivera, Mike	235	Florida	4	Jr	C	47	46		0.238	0.346	0.358	151	23	36	7	1	54	3	28	20	6	2	3	19	10	1		
+1639949	Kolozsvary, Mark	235	Florida	28	Jr	C	46	35		0.276	0.381	0.440	116	20	32	8	1	51	3	26	18	3	2	3	30	4	2		
+1751870	Reese, Blake	235	Florida	12	So	OF	40	18		0.233	0.378	0.260	73	12	17	2		19		11	12	5			22	3	4		
+1751874	Byrne, Michael	235	Florida	17	So	P	38	3		0.000	0.500	0.000	1					0			1			1	1				
+1866411	Bell, Keenan	235	Florida	32	Fr	INF	34	24		0.283	0.327	0.391	92	15	26	4		36	2	12	4	2			29	3	3	1	
+1866421	Milchin, Garrett	235	Florida	3	Fr	INF	29	6		0.182	0.269	0.318	22	1	4			7	1	7	3		1		9	1			
+1866410	Baker, Andrew	235	Florida	35	Fr	OF	27	6		0.154	0.290	0.192	26	4	4	1		5			1	4			9			2	
+1531502	Rubio, Frank	235	Florida	39	Sr	P	24	0										0											
+1866414	Dyson, Tyler	235	Florida	18	Fr	P	24	2										0											
+1751888	Singer, Brady	235	Florida	51	So	P	22	21										0											
+1639946	Faedo, Alex	235	Florida	21	Jr	P	20	19										0											
+1751871	Kowar, Jackson	235	Florida	37	So	P	19	18										0											
+1866420	McMullen, Kirby	235	Florida	52	Fr	OF	17	1		0.000	0.500	0.000	1	1				0			1								
+1866413	Brown, Nate	235	Florida	23	Fr	P	10	4										0											
+1866412	Bodrato, Austin	235	Florida	13	Fr	INF	8	0		0.143	0.333	0.143	7	2	1			1		1	2				2		1		
+1866417	Long, Nick	235	Florida	34	Fr	P	5	1										0											
+1866418	Maye, Cole	235	Florida	36	Fr	P	5	0										0											
+1866416	Lee, David	235	Florida	10	Jr	P	2	0										0											
+1772378	Taylor, Chandler	8	Alabama	7	So	OF	54	52		0.282	0.383	0.601	188	39	53	10	1	113	16	34	32	2	5		69	2	7	4	
+1772375	Vance, Cobie	8	Alabama	1	So	INF	54	54		0.293	0.360	0.356	208	26	61	11	1	74		32	24		4	5	24	11	2	2	
+1655482	Short, Connor	8	Alabama	11	Jr	INF	54	53		0.196	0.275	0.333	168	20	33	11		56	4	25	15	5	5	6	40	3	1	2	
+1655473	Avant, Chandler	8	Alabama	5	Jr	INF	54	54		0.286	0.341	0.394	231	35	66	15	2	91	2	19	12	9	3	3	31	7	6	6	
+1655478	Henry, Cody	8	Alabama	9	Jr	INF	50	49		0.294	0.348	0.486	177	29	52	10		86	8	31	13	4	4	3	51	5	1	4	
+1774385	DeVinny, Tanner	8	Alabama	8	Sr	C	48	30		0.206	0.398	0.351	97	11	20	2		34	4	16	28	3			36	1		1	
+1871413	Alexander, Hunter	8	Alabama	22	Jr	INF	47	47		0.282	0.362	0.453	170	26	48	7	2	77	6	33	22	1	3	5	43	3		3	
+1871419	Kaufman, Kyle	8	Alabama	28	So	C	44	39		0.301	0.396	0.360	136	24	41	2		49	2	14	11	11	1	5	16	5	2		
+1871418	Carey, Logan	8	Alabama	19	Fr	OF	43	23		0.217	0.330	0.265	83	10	18	4		22		2	12	2			15	3	3		
+1774386	Finnerty, Sam	8	Alabama	10	So	OF	41	20		0.224	0.289	0.289	76	10	17	5		22		11	6	1			15	4			
+1871423	McCleney, Walker	8	Alabama	13	Fr	OF	39	15		0.250	0.411	0.295	44	11	11	2		13		1	6	6		3	14		3		
+1772364	Webb, Alex	8	Alabama	6	Fr	C	31	14		0.328	0.358	0.500	64	7	21	5		32	2	9	3			4	13	2			
+1772362	Wood, Gene	8	Alabama	14	So	INF	30	23		0.253	0.349	0.360	75	12	19	5		27	1	6	9	2		2	12	1	1	1	
+1774392	Wright, Connor	8	Alabama	48	Fr	OF	26	0		0.250	0.333	0.250	8	5	2			2			1				2	3	1	1	
+1871436	Oczypok, Mike	8	Alabama	55	Sr	P	25	0										0											
+1871448	Trousdale, John	8	Alabama	2	Fr	INF	24	1		0.160	0.222	0.280	25	2	4			7	1	4	2				4	1			
+1871447	Suchey, Garrett	8	Alabama	24	Jr	P	24	1										0											
+1772376	Vainer, Davis	8	Alabama	44	Fr	P	23	0										0											
+1416305	Poe, Taylor	8	Alabama	41	Sr	C	22	4		0.095	0.321	0.095	21	4	2			2		2	3	4			10				
+1655476	Coker, Zack	8	Alabama	37	So	INF	21	0		0.091	0.375	0.091	11	3	1			1		3	4	1		2	5				
+1655481	Rogers, Zac	8	Alabama	27	Jr	P	20	1			1.000							0		1	1								
+1871435	Medders, Deacon	8	Alabama	32	Fr	P	15	6										0											
+1655483	Walters, Jake	8	Alabama	16	Jr	P	14	13										0											
+1774388	Holcombe, Keith	8	Alabama	18	So	OF	13	10		0.250	0.344	0.286	28	6	7	1		8		2	3	1			7				
+1772294	Duarte, Dylan	8	Alabama	25	So	P	13	13										0											
+1871437	Potter, Sonny	8	Alabama	12	Fr	P	12	0		0.000	0.000	0.000	1					0							1				
+1527438	Eicholtz, Nick	8	Alabama	29	Sr	P	12	12										0											
+1871445	Rukes, Garret	8	Alabama	21	Fr	P	7	4										0											
+1774391	Love, Brock	8	Alabama	20	So	P	6	2										0											
+1527448	Adams, Tyler	8	Alabama	42	Jr	P	5	0										0											
+1871416	Bauer, Camden	8	Alabama	15	Fr	INF	3	0		0.000	0.000	0.000	1					0											
+1871415	Altstadt, Nathan	8	Alabama	31	Fr	P	2	0										0											
+1655480	McMurray, Tyler	8	Alabama	36	Jr	P	2	0										0											
+1774383	Cameron, Kyle	8	Alabama	33	So	P	2	0										0											
+1643134	Bond, Brett	434	Missouri	5	Jr	C	58	54		0.307	0.385	0.507	215	41	66	13		109	10	45	25	4	3	1	57	4	4	2	
+1881844	Misner, Kameron	434	Missouri	30	Fr	OF	58	58		0.282	0.360	0.446	213	39	60	12	1	95	7	34	23	4	2	3	55	4	17	6	
+1881836	Samples, Alex	434	Missouri	3	Jr	INF	56	49		0.202	0.294	0.277	173	30	35	10		48	1	23	22	2	4	1	46	2	3	1	
+1881837	Glendinning, Robbie	434	Missouri	9	Jr	INF	56	54		0.274	0.386	0.463	201	36	55	13	2	93	7	30	35	3	2		62	5	7	3	
+1754658	Brumfield, Connor	434	Missouri	8	So	OF	55	55		0.272	0.376	0.355	217	37	59	9	3	77	1	28	33	5	3	3	45	4	11	6	
+1881842	Cornelius, Chris	434	Missouri	24	Fr	INF	55	55		0.260	0.332	0.392	181	25	47	12	3	71	2	31	19	3	5	6	50	5	2	1	
+1754667	Sharp, Brian	434	Missouri	4	So	INF	54	48		0.246	0.358	0.395	167	30	41	11	1	66	4	19	31	1	5	1	57	3	4	4	
+1643140	Harris, Trey	434	Missouri	22	Jr	INF	52	50		0.268	0.388	0.508	183	35	49	8		93	12	48	32	6	3	3	27	7	9	3	
+1754656	McGuire, Kirby	434	Missouri	7	Sr	OF	41	35		0.291	0.388	0.370	127	25	37	4		47	2	9	15	5		2	34		10	4	
+1881839	Mompierre, Nelson	434	Missouri	12	Jr	C	38	26		0.327	0.427	0.510	98	14	32	6		50	4	21	17	1	1	1	19			1	
+1881838	Berler, Matt	434	Missouri	10	So	INF	38	27		0.242	0.353	0.384	99	18	24	8		38	2	15	11	7	2	1	31	2	4		
+1754661	Balsamo, Johnny	434	Missouri	23	Jr	OF	32	5		0.235	0.395	0.265	34	10	8	1		9		2	6	3			10	2	4	1	
+1754655	Nelson, Ian	434	Missouri	6	So	INF	27	9		0.146	0.212	0.188	48	2	7		1	9		5	3	1			5	1			
+1881840	Sikkema, T.J.	434	Missouri	17	Fr	P	22	3										0											
+1643139	Gromacki, Nolan	434	Missouri	27	Jr	P	22	0										0											
+1536642	Bartlett, Cole	434	Missouri	36	Jr	P	21	7										0											
+1754662	Plassmeyer, Michael	434	Missouri	26	So	P	19	10										0											
+1881811	Lewis, A.J.	434	Missouri	1	Fr	C	17	4		0.043	0.154	0.087	23	2	1	1		2		1	3				12			1	
+1881835	Toelken, Andy	434	Missouri	2	Jr	P	16	11										0											
+1754666	Shoaff, Ty	434	Missouri	40	So	P	15	0										0											
+1643147	Montes De Oca, Bryce	434	Missouri	43	Jr	P	15	12										0											
+1643142	Houck, Tanner	434	Missouri	11	Jr	P	14	14										0											
+1881845	Dulle, Cameron	434	Missouri	35	Fr	P	12	0										0											
+1881841	Painter, Armaan	434	Missouri	19	Fr	INF	11	0		0.000	0.200	0.000	8	2				0			2				2				
+1643144	Lee, Ryan	434	Missouri	48	Jr	P	10	1										0											
+1643137	Del Rio, Alex	434	Missouri	16	Jr	C	6	0		0.167	0.167	0.167	6	1	1			1							2				
+1643135	Carter, Liam	434	Missouri	28	So	P	5	3										0											
+1881847	Boyster, Luke	434	Missouri	44	Fr	P	5	0										0											
+1881846	Stoll, Evan	434	Missouri	37	Fr	P	2	0										0											
+1769037	Freeman, Cole	365	LSU	8	Sr	INF	72	72		0.315	0.416	0.404	270	54	85	14	2	109	2	41	28	21	3	16	24	1	19	7	
+1542528	Robertson, Kramer	365	LSU	3	Sr	INF	72	72		0.307	0.403	0.472	290	85	89	18	3	137	8	43	36	12	2	1	32	3	9	3	
+1656109	Deichmann, Greg	365	LSU	7	Jr	OF	72	72		0.308	0.417	0.579	266	54	82	15		154	19	73	51	2	5		62	6	7	3	
+1880958	Smith, Josh	365	LSU	4	Fr	INF	72	71		0.281	0.407	0.409	242	52	68	16		99	5	48	39	17	7	5	33	4	5	2	
+1769036	Duplantis, Antoine	365	LSU	20	So	OF	71	70		0.316	0.358	0.400	285	50	90	14	2	114	2	61	16	6	6	1	31	9	19	4	
+1656108	Papierski, Michael	365	LSU	2	Jr	C	65	62		0.256	0.401	0.477	176	37	45	6		84	11	39	40	4	2	8	49	4	4		
+1880960	Watson, Zach	365	LSU	9	Fr	OF	64	57		0.317	0.376	0.507	221	42	70	9	3	112	9	37	17	5	2	1	42	9	12	5	
+1656113	Jordan, Beau	365	LSU	24	Jr	OF	55	48		0.268	0.351	0.381	168	30	45	7		64	4	29	18	5	3	6	31	4		1	
+1880959	Slaughter, Jake	365	LSU	5	Fr	INF	53	40		0.257	0.358	0.351	148	22	38	5		52	3	26	10	15	3	2	45	5	2	2	
+1880962	Coomes, Nick	365	LSU	13	Jr	C	46	37		0.303	0.401	0.402	132	20	40	7		53	2	24	18	5	2		23	4	1	1	
+1769046	Romero, Jordan	365	LSU	28	Sr	C	36	21		0.229	0.302	0.292	96	11	22	3		28	1	12	6	4			18	3			
+1769031	Breaux, Brennan	365	LSU	6	So	OF	30	8		0.176	0.263	0.324	34	9	6		1	11	1	2	4			1	8	1		1	
+1880967	Hess, Zack	365	LSU	38	Fr	P	30	6										0											
+1769049	Gilbert, Caleb	365	LSU	41	So	P	28	5										0											
+1880963	Woley, Rankin	365	LSU	22	Fr	INF	26	8		0.267	0.327	0.400	45	8	12	4	1	18		5	2	2			9				
+1436652	Newman, Hunter	365	LSU	55	Sr	P	26	0										0											
+1769035	Reid, Chris	365	LSU	17	So	INF	25	3		0.208	0.394	0.208	24	4	5			5		3	6	2	1		7	1			
+1769047	Bush, Nick	365	LSU	29	Fr	P	23	0										0											
+1880969	Peterson, Todd	365	LSU	43	Fr	P	22	3										0											
+1880965	Beck, Matthew	365	LSU	27	Fr	P	20	2										0											
+1542531	Poche', Jared	365	LSU	16	Sr	P	20	19		0.000	0.000	0.000	1					0							1				
+1656111	Bain, Austin	365	LSU	18	Jr	P	20	0										0											
+1656117	Lange, Alex	365	LSU	35	Jr	P	19	19										0											
+1880961	Walker, Eric	365	LSU	10	Fr	P	17	17										0											
+1656116	Strall, Collin	365	LSU	30	Sr	P	16	0										0											
+1436651	Reynolds, Russell	365	LSU	45	Sr	P	15	1										0											
+1769029	Adams, Bryce	365	LSU	44	Sr	OF	11	7		0.238	0.292	0.619	21	4	5	2		13	2	5	1	1	1		6	1			
+1880968	Kiel, Hunter	365	LSU	40	Jr	P	10	0										0											
+1880966	Reese, Will	365	LSU	37	Fr	P	7	0										0											
+1880964	Templet, Mason	365	LSU	23	Fr	INF	5	0		0.000	0.000	0.000	6					0							5				
+1880970	Frederick, Blair	365	LSU	46	Fr	P	5	0										0											
+1656112	Norman, Doug	365	LSU	21	Jr	P	3	0										0											
+1755162	Curry, Michael	257	Georgia	13	So	C	57	57		0.297	0.384	0.484	219	27	65	11		106	10	46	29	2			42	6			
+1870265	Shepherd, Cam	257	Georgia	7	Fr	SS	57	57		0.307	0.354	0.452	241	29	74	16	2	109	5	28	13	5	1	1	28	6	5	2	
+1643201	McGovern, Keegan	257	Georgia	32	Jr	OF	56	54		0.291	0.426	0.413	189	39	55	15	1	78	2	21	35	10	1		51	5	1	1	
+1870264	Maxwell, Tucker	257	Georgia	1	Fr	OF	52	52		0.177	0.295	0.306	186	24	33	6		57	6	22	27	5	2	3	51	3	6	3	
+1870275	Bradley, Tucker	257	Georgia	28	Fr	OF	50	41		0.314	0.376	0.365	156	20	49	8		57		10	13	3	1	5	26	3	7	2	
+1755168	Sasser, Adam	257	Georgia	24	So	1B	50	39		0.245	0.299	0.308	143	14	35	3		44	2	8	12		2	2	46	4		1	
+1870267	Proctor, Will	257	Georgia	11	Fr	INF	46	38		0.241	0.318	0.405	116	12	28	8	1	47	3	17	8	6	2	7	30	4		1	
+1870266	Biggar, Austin	257	Georgia	8	Fr	C	46	44		0.193	0.262	0.273	150	18	29	6		41	2	12	12	2		5	46	7	1		
+1755158	Talley, LJ	257	Georgia	2	So	INF	44	29		0.257	0.344	0.358	109	16	28	5		39	2	12	11	4	1	2	22	2			
+1643191	Webb, Mitchell	257	Georgia	6	Jr	3B	43	28		0.203	0.246	0.341	123	14	25	3	1	42	4	17	6	1			31	5	1	1	
+1870271	Schunk, Aaron	257	Georgia	22	Fr	3B	37	37		0.290	0.319	0.374	131	14	38	6	1	49	1	18	5	1	1	1	25	3	1		
+1870281	Campbell, Will	257	Georgia	20	Jr	OF	30	29		0.232	0.363	0.374	99	22	23	5		37	3	13	14	8	3		25	5	1	1	
+1870268	Kristofak, Zac	257	Georgia	12	Fr	P	26	3										0											
+1755167	Moody, Logan	257	Georgia	21	So	OF	23	5		0.208	0.345	0.208	24	3	5			5			1	4			9	1			
+1755164	Smith, Kevin	257	Georgia	15	So	P	20	12										0											
+1643198	Avidano, Ryan	257	Georgia	50	Fr	P	18	1										0											
+1532757	Moody, Drew	257	Georgia	41	Jr	P	18	2										0											
+1755171	Cairnes, Blake	257	Georgia	35	Jr	P	17	0										0											
+1755160	Gist, Andrew	257	Georgia	5	Sr	P	17	11										0											
+1870273	Locey, Tony	257	Georgia	25	Fr	P	16	8										0											
+1755159	Brown, Blakely	257	Georgia	3	So	P	16	2										0											
+1870272	Adkins, Chase	257	Georgia	23	Jr	P	15	14										0											
+1870279	Elliott, Tim	257	Georgia	44	Fr	P	15	0										0											
+1870278	Glover, Justin	257	Georgia	33	Fr	P	13	2										0											
+1643190	Logan, Trey	257	Georgia	4	Jr	SS	13	3		0.190	0.190	0.286	21	4	4	2		6						2	7	1			
+1870269	Shepard, Shaefer	257	Georgia	17	Sr	P	12	0										0											
+1870274	Ryder, Christian	257	Georgia	26	Fr	P	12	2										0											
+1755166	Tucker, Shane	257	Georgia	19	So	P	10	0										0											
+1755165	Goodman, Adam	257	Georgia	16	So	P	8	0										0											
+1755169	Tinder, Trevor	257	Georgia	27	So	P	5	0										0											
+1870270	Williams, James	257	Georgia	18	Fr	P	4	0		0.000	0.500	0.000	1	1				0			1				1				
+1530258	Rooker, Brent	430	Mississippi St.	19	Jr	OF	67	67		0.387	0.495	0.810	248	60	96	30	3	201	23	82	48	9	4		58	4	18	5	
+1641077	Gridley, Ryan	430	Mississippi St.	10	Jr	INF	67	67		0.327	0.393	0.457	269	50	88	15	1	123	6	39	21	12	6	1	39	5	7	10	
+1751521	Mangum, Jake	430	Mississippi St.	15	So	OF	65	65		0.324	0.380	0.385	278	51	90	15	1	107		26	9	17	1	1	35	4	14	7	
+1436193	Brown, Cody	430	Mississippi St.	26	Sr	OF	64	60		0.323	0.433	0.539	217	46	70	14	3	117	9	42	40	4	2	6	46	4	10	3	
+1751519	Alexander, Luke	430	Mississippi St.	7	So	INF	59	53		0.222	0.295	0.343	198	30	44	9		68	5	21	20	1	1	5	58	6	5	1	
+1882029	MacNamee, Elijah	430	Mississippi St.	40	So	OF	57	48		0.267	0.315	0.344	180	22	48	6	1	62	2	22	11	3	3	3	51	7	4	2	
+1882019	Poole, Tanner	430	Mississippi St.	12	Jr	OF	57	47		0.224	0.290	0.309	165	20	37	3	1	51	3	14	10	6	2	5	56	3	11	5	
+1641080	Lovelady, Josh	430	Mississippi St.	16	Sr	C	53	51		0.215	0.305	0.288	163	21	35	7	1	47	1	21	13	9	2	7	38	7			
+1751518	Stovall, Hunter	430	Mississippi St.	2	So	INF	45	44		0.287	0.345	0.375	160	30	46	6	1	60	2	18	12	3	2	2	28	2	4	1	
+1882025	Vansau, Hunter	430	Mississippi St.	32	Jr	OF	44	26		0.297	0.377	0.356	118	10	35	5	1	42		14	11	6	3	1	38	1		3	
+1641079	Gordon, Cole	430	Mississippi St.	24	So	1B	41	21		0.158	0.258	0.316	57	5	9			18	3	9	6	2	1		23	2			
+1751545	Blaylock, Brant	430	Mississippi St.	5	Fr	OF	35	26		0.193	0.272	0.325	83	14	16	1	2	27	2	10	8	1		2	40	3	2	1	
+1882018	Skelton, Dustin	430	Mississippi St.	8	Fr	C	34	17		0.206	0.295	0.235	68	1	14	2		16		10	8	1	1	1	21	1			
+1882033	Price, Spencer	430	Mississippi St.	55	So	P	32	0		1.000	1.000	1.000	1		1			1											
+1882021	Self, Riley	430	Mississippi St.	14	Fr	P	31	0										0						1					
+1882028	Bragg, Harrison	430	Mississippi St.	38	Jr	INF	30	17		0.290	0.333	0.484	62	10	18	3		30	3	10	3	1			25	1			
+1751541	Barlow, Trysten	430	Mississippi St.	46	Fr	P	29	0		0.500	0.667	0.500	2		1			1			1				1				
+1882027	Jolly, Trey	430	Mississippi St.	37	Jr	P	26	0		0.000	0.000	0.000	1	2				0											
+1882020	Plumlee, Peyton	430	Mississippi St.	13	So	P	26	8										0											
+1882023	McQuary, Denver	430	Mississippi St.	22	Fr	P	25	8		0.000	0.000	0.000	1					0							1				
+1882016	Barton, Jacob	430	Mississippi St.	4	Jr	P	23	0										0											
+1751542	Pilkington, Konnor	430	Mississippi St.	48	So	P	18	17		0.000	0.000	0.000	1					0							1				
+1530282	Billingsley, Jacob	430	Mississippi St.	45	Jr	P	16	13										0											
+1882030	Ashcraft, Graham	430	Mississippi St.	41	Fr	P	10	5										0											
+1882032	Mahoney, Andrew	430	Mississippi St.	49	Jr	P	9	0										0											
+1751525	Ford, Parker	430	Mississippi St.	33	Fr	P	9	0										0											
+1751524	Cyr, Ryan	430	Mississippi St.	28	So	P	6	2										0											
+1751550	Rigby, Ryan	430	Mississippi St.	31	Jr	P	5	0										0											
+1751520	Marrero, Elih	430	Mississippi St.	9	So	C	4	2		0.000	0.167	0.000	10	1				0		1	2				2				
+1751547	Smith, Blake	430	Mississippi St.	42	Sr	P	2	0										0											
+1889462	Ashcraft,	430	Mississippi St.	0	N/A	DH	1	0										0											
+1751526	Breaux, Kale	430	Mississippi St.	34	So	P	1	0										0											
