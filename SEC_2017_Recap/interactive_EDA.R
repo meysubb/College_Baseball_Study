@@ -14,7 +14,7 @@ hit_plate_disc <- play_hit %>% filter(AB>50) %>% mutate(
 
 
 x <- c("Player","Team Name","At Bats", "Batting Average","OBP","SLG","K %","BB %")
-y <-c ("{point.player_name}","{point.team_name}", "{point.BA}",
+y <-c ("{point.player_name}","{point.team_name}", "{point.AB}",
        sprintf("{point.%s:.3f}", c("BA", "OBPpct","SLGpct","K_PCT","BB_PCT")))
 tltip <- tooltip_table(x,y)
 
