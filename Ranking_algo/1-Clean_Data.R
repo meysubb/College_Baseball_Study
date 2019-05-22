@@ -5,14 +5,17 @@ library(readr)
 library(lubridate)
 
 #dat_18 <- read_tsv("2018_game_data.tsv")
-dat_19  <- read_tsv("2019_game_data.tsv")
+dat_19  <- read_tsv("Ranking_algo/2019_game_data.tsv")
 all_games <- dat_19
 
 all_games <- replace_na(all_games, list(home_r=0, away_r=0))
 
 team = master_ncaa_team_lu %>% filter(year == 2019 & division == 1) %>% select(school,conference)
 
+team = team[!team$school == 'Loyola Marymount',]
+
 extract_team_df <- function(team_name,df){
+  print(team_name)
   df_raw <- df %>% filter(home_team_name == team_name | away_team_name == team_name)
   ind1 <- which(df_raw$away_team_name == team_name)
   ind2 <- which(!(df_raw$away_team_name == team_name))
@@ -43,20 +46,20 @@ full_dat <- full_dat %>%
     game_date = mdy(game_date)
     )
 
-full_18 <- full_dat %>% filter(year(game_date)==2018) %>% 
-  mutate(
-    days = difftime(max(game_date),game_date,units="days"),
-    ffactor = 0.98 ^ (as.numeric(days)+1))
+# full_18 <- full_dat %>% filter(year(game_date)==2018) %>% 
+#   mutate(
+#     days = difftime(max(game_date),game_date,units="days"),
+#     ffactor = 0.98 ^ (as.numeric(days)+1))
 
 
 full_19 <- full_dat %>% filter(year(game_date)==2019) %>% 
   mutate(
     days = difftime(max(game_date),game_date,units="days"),
-    ffactor = (0.98 ^ as.numeric(days)))
+    ffactor = (0.96 ^ as.numeric(days)))
 
-full_dat_back <- bind_rows(full_18,full_19) 
+#full_dat_back <- bind_rows(full_18,full_19) 
 
-full_dat_conf = full_dat_back %>% 
+full_dat_conf = full_19 %>% 
   left_join(team,by=c("opponent"="school")) %>% 
   mutate(
     conf_play = ifelse(conference.x==conference.y,T,F),
