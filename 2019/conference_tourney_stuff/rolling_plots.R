@@ -60,7 +60,7 @@ rolling_plots <- function(type="conf",team="Texas A&M",conference_name="SEC"){
   
   players_df$player_name <- factor(players_df$player_name)
   
-  subtitle_text = paste0('Returning ',conference_name,' Top hitters (AB > ', AB_cutoff,' & BA > ',BA_cutoff,')\nVertical lines show # of 1-hit games')
+  subtitle_text = paste0('Returning ',conference_name,' Top hitters (AB > ', AB_cutoff,' & BA > ',round(BA_cutoff,2),')\nVertical lines show # of 1-hit games')
   
   roll_plot <- ggplot() + 
     geom_line(data=hitting4,aes(x=game_num,y=roll_wOBA),color='blue') + 
