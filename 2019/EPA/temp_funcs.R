@@ -1,4 +1,6 @@
 ### Helper Functions from here on out. 
+library(curl)
+options(timeout= 4000000)
 stripwhite <- function(x) gsub("\\s*$", "", gsub("^\\s*", "", x))
 
 score_fill=function(score_in){
@@ -16,11 +18,23 @@ clean_games = function(game_id,year){
   print(paste0('Processing pbp for ',game_id))
   first_url='https://stats.ncaa.org/contests/'
   first_x = paste(first_url,game_id,'box_score',sep='/')
-  adv_game_id = read_html(first_x) %>% html_nodes("#root li:nth-child(3) a") %>% html_attr("href")
+  s = curl(first_x, handle = curl::new_handle("useragent" = "Mozilla/5.0"))
+  read_url = try(read_html(s))
+  if(class(read_url)=='try-error'){
+    print(paste('Cannot connect to server for', game_id, 'in', year))
+    return(NULL)
+  }
+  adv_game_id = read_url %>%  html_nodes("#root li:nth-child(3) a") %>% html_attr("href")
   
   base_url='http://stats.ncaa.org'
   x= paste(base_url, adv_game_id, sep='/')
-  Sys.sleep(1)
+  # random sleep 
+  val = sample(c(T,F),size = 1,prob=c(0.1,0.9))
+  if(val==T){
+    print('sleep')
+    Sys.sleep(1)
+  }
+  
   x_read <- try(getURL(x))
   if (class(x_read)=='try-error'){
     print(paste('Cannot connect to server for', game_id, 'in', year))

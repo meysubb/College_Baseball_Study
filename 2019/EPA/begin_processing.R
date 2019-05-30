@@ -22,7 +22,11 @@ mar = games_lst$`3`
 apr = games_lst$`4`
 may = games_lst$`5`
 
-feb_pbp = feb %>% mutate(
+feb_pbp =  may %>% mutate(
   pbp_raw = purrr::map2(GameId,Year,clean_games))
 
-write_csv(feb_pbp,'EPA/data/NCAA_baseball_pbp_feb_2019.csv')
+# remove nulls, and unnest
+pbp_raw = feb_pbp %>% select(pbp_raw) %>%  drop_na(pbp_raw) %>% unnest(pbp_raw)
+# parse the pbp now
+pbp_parsed = .ncaa_parse_pbp(pbp_raw)
+write_csv(pbp_parsed,'data/NCAA_baseball_pbp_may_2019.csv')

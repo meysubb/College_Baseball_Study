@@ -49,20 +49,24 @@ pbp_17_final = pbp_17_era %>% inner_join(results)
 
 library(mgcv)
 
-t = bam(as.factor(result)~s(esd)+s(inning),
-        data=pbp_17_final,
-        family=binomial(link = "logit"))
+# t = bam(as.factor(result)~s(esd)+s(inning),
+#         data=pbp_17_final,
+#         family=binomial(link = "logit"))
+# 
+# save(t,file="EPA/models/wp_17_model.RData")
 
-save(t,file="EPA/models/wp_17_model.RData")
+load("EPA/models/wp_17_model.RData")
 
-temp_dat = pbp_17_final %>% select(game_id,esd,inning)
+temp_dat = pbp_17_final %>% select(game_id,esd,inning) %>% filter(game_id == 4376802)
 
-new_res = predict.bam(t,newdata = pbp_17_final %>% select(-game_id),type="response")
+new_res = predict.bam(t,newdata = temp_dat %>% select(-game_id),type="response")
 
-pbp_17_final$home_wpa = new_res
-
-davidson_game = pbp_17_final %>% filter(game_id == 4376802) %>% 
-  mutate(away_wpa = 1 - home_wpa,
+davidson_data = pbp_17_final %>% filter(game_id == 4376802) %>% 
+  mutate(home_wpa = new_res,
+         away_wpa = 1 - home_wpa,
+         #l= lead(home_wp),
+         #home_wpa = lead(home_wp)-home_wp ,
+         #home_wpa2 = cumsum(home_wpa),
          in_time = case_when(
           top_inning == 1 ~ inning + (outs_before/10),
           top_inning == 0 ~ inning + (outs_before/10) + 0.3,
