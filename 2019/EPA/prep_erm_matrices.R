@@ -63,16 +63,22 @@ new_res = predict.bam(t,newdata = temp_dat %>% select(-game_id),type="response")
 
 davidson_data = pbp_17_final %>% filter(game_id == 4376802) %>% 
   mutate(home_wpa = new_res,
-         away_wpa = 1 - home_wpa,
-         #l= lead(home_wp),
-         #home_wpa = lead(home_wp)-home_wp ,
-         #home_wpa2 = cumsum(home_wpa),
-         in_time = case_when(
-          top_inning == 1 ~ inning + (outs_before/10),
-          top_inning == 0 ~ inning + (outs_before/10) + 0.3,
-         )) 
+         away_wpa = 1 - home_wpa) %>% 
+  group_by(inning,top_inning) %>% 
+  mutate(
+    row = row_number(),
+    last = last(row)
+  ) %>% ungroup() %>% 
+  group_by(inning) %>% 
+  mutate(
+    in_time = case_when(
+      top_inning == 1 ~ inning + (row/100),
+      top_inning == 0 ~ inning + ((row+last)/100),
+    )) %>% ungroup()
+       
+ 
 
-plot_ready = davidson_game %>% select(home_wpa,away_wpa,in_time) %>% 
+plot_ready = davidson_data %>% select(home_wpa,away_wpa,in_time) %>% 
   reshape2::melt(id="in_time")
 
 
