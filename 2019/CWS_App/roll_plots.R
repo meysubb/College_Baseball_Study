@@ -1,27 +1,15 @@
-library(dplyr)
-library(readr)
-library(baseballr)
+top_hit <- read_tsv("data/summary_hitting_data.tsv") 
+hitting <- read_tsv("data/player_data.tsv")
 trim <- function (x) gsub("^\\s+|\\s+$", "", x)
-
-confs = master_ncaa_team_lu %>% filter(division==1) %>% distinct(conference)
-
-
-hitting = read_tsv("data/player_data.tsv")
-
 hitting <- hitting %>% mutate(
-  player_name = trim(player_name))
+  player_name = trim(player_name)
+)
 
-top_hit = hitting %>% select(-team_id,-game_date,-Pos) %>% group_by(player_id,player_name,team_name) %>% 
-  summarise_all(sum,na.rm=T) %>% 
-  ungroup() %>% 
-  filter(AB>0) %>% 
-  mutate(BA = H/AB)
-
-
-rolling_plots <- function(type="conf",team="Texas A&M",conference_name="SEC"){
+### Filter by team or conference based
+rolling_plots <- function(type="conf",team="Texas A&M",conference_name="Southeastern"){
   require(baseballr)
   require(zoo)
-  teams <- master_ncaa_team_lu %>% filter(year==2019,conference==conference_name) %>% select(school) %>% pull()
+  teams <- master_ncaa_team_lu %>% filter(year==2017,conference==conference_name) %>% select(school) %>% pull()
   if(type=="conf"){
     top_hit2 <- top_hit %>% filter(team_name %in% teams)
     AB_cutoff <- quantile(top_hit2$AB,prob=seq(0,1,by=0.05))[19]
@@ -38,9 +26,9 @@ rolling_plots <- function(type="conf",team="Texas A&M",conference_name="SEC"){
     `1B` = TB - (2*`2B` +3*`3B`),
     wOBA = (.69 * BB + .72 * HBP + .89 * `1B` + 1.27 * `2B` + 1.62 * `3B` + 2.10 * HR)/(AB+BB+SF+HBP)
   )
-  players <- players_df %>% select(player_name) %>% pull()
+  players <- players_df %>% select(Player) %>% pull()
   hitting2 <- hitting %>% 
-    filter(player_name %in% players & team_name %in% teams) 
+    filter(player_name %in% players) 
   hitting2[is.na(hitting2)] <- 0
   hitting3 <- hitting2 %>% mutate(
     `1B` = TB - (2*`2B` +3*`3B`),
@@ -50,7 +38,7 @@ rolling_plots <- function(type="conf",team="Texas A&M",conference_name="SEC"){
     mutate(
       game_num = row_number()
     ) %>% ungroup() 
-  
+
   hitting4 <- hitting3 %>% select(player_name,game_num,wOBA) %>% mutate(
     roll_wOBA = rollapply(wOBA,3,FUN=mean,align='right',fill=NA)
   )
@@ -58,9 +46,9 @@ rolling_plots <- function(type="conf",team="Texas A&M",conference_name="SEC"){
   hitting5 <- hitting3 %>% select(player_name,game_num,H) %>% filter(H==1)
   hitting6 <- hitting3 %>% select(player_name,H)
   
-  players_df$player_name <- factor(players_df$player_name)
+  players_df$player_name <- factor(players_df$Player)
   
-  subtitle_text = paste0('Returning ',conference_name,' Top hitters (AB > ', AB_cutoff,' & BA > ',round(BA_cutoff,2),')\nVertical lines show # of 1-hit games')
+  subtitle_text = paste0('Returning ',conference_name,' Top hitters (AB > ', AB_cutoff,' & BA > ',BA_cutoff,')\nVertical lines show # of 1-hit games')
   
   roll_plot <- ggplot() + 
     geom_line(data=hitting4,aes(x=game_num,y=roll_wOBA),color='blue') + 
@@ -89,3 +77,6 @@ rolling_plots <- function(type="conf",team="Texas A&M",conference_name="SEC"){
   require(cowplot)
   plot_grid(roll_plot,d)
 }
+
+
+

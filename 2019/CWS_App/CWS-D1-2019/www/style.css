@@ -1,0 +1,24 @@
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+
+.main-header .logo {
+  font-family: 'Lobster', cursive;
+  font-weight: bold;
+  font-size: 24px;
+  color: #48ca3b;
+}
+
+
+.content-wrapper,
+.right-side {
+  background-color: #ffe;
+}
+
+
+.nav-tabs-custom .nav-tabs li.active:hover a, .nav-tabs-custom .nav-tabs li.active a {
+     background-color: transparent;
+     border-color: transparent;
+}
+
+.nav-tabs-custom .nav-tabs li.active {
+     border-top-color: #FFF;
+}
